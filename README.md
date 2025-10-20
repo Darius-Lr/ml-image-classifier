@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.50.0-orange?logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
 
 A **Streamlit-powered web app** that classifies images using **TensorFlow** and **OpenCV**.  
 This project showcases end-to-end machine learning deployment with an interactive web interface.
@@ -17,7 +17,10 @@ Check out the app live: https://ml-image-classifier.streamlit.app/
 
 ## 🎬 Demo
 
-
+<video width="600" controls>
+  <source src="vi.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ---
 
 ## 🛠️ Tech Stack
