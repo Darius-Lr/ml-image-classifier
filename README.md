@@ -17,10 +17,7 @@ Check out the app live: https://ml-image-classifier.streamlit.app/
 
 ## 🎬 Demo
 
-<video width="600" controls>
-  <source src="vi.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Demo](vi.gif)
 ---
 
 ## 🛠️ Tech Stack
