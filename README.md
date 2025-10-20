@@ -22,12 +22,17 @@ Check out the app live: https://ml-image-classifier.streamlit.app/
 
 ## 🛠️ Tech Stack
 
-- **Python 3.13**  
-- **Streamlit** – Web interface  
-- **TensorFlow** – Machine learning  
-- **OpenCV / Pillow** – Image processing  
-- **NumPy / Pandas** – Data handling  
-- **Matplotlib** – Optional visualizations  
+Python 3.13 – Programming language
+
+Streamlit – Web app interface for uploading images and showing results
+
+TensorFlow / Keras – Deep learning, using MobileNetV2 pretrained model
+
+OpenCV (cv2) – Image preprocessing and resizing
+
+NumPy – Array manipulation
+
+Pillow (PIL) – Handling image uploads in the web interface
 
 ---
 
